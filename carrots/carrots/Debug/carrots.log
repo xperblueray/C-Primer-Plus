@@ -1,0 +1,5 @@
+﻿  getinfo.cpp
+  carrots.cpp
+  Generating Code...
+getinfo.obj : error LNK2005: _main already defined in carrots.obj
+E:\CodingMonster\C++\carrots\Debug\carrots.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  floatnum.cpp
+e:\codingmonster\c++\floatnum\floatnum.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  floatnum.vcxproj -> E:\CodingMonster\C++\floatnum\Debug\floatnum.exe
+  floatnum.vcxproj -> E:\CodingMonster\C++\floatnum\Debug\floatnum.pdb (Full PDB)

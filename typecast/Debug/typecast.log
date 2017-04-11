@@ -1,0 +1,4 @@
+﻿  typecast.cpp
+e:\codingmonster\c++\typecast\typecast.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  typecast.vcxproj -> E:\CodingMonster\C++\typecast\Debug\typecast.exe
+  typecast.vcxproj -> E:\CodingMonster\C++\typecast\Debug\typecast.pdb (Full PDB)

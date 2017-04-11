@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  assign.cpp
+e:\codingmonster\c++\assign\assign.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\codingmonster\c++\assign\assign.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  assign.vcxproj -> E:\CodingMonster\C++\assign\Debug\assign.exe
+  assign.vcxproj -> E:\CodingMonster\C++\assign\Debug\assign.pdb (Full PDB)
