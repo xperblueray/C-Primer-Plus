@@ -1,0 +1,4 @@
+﻿  waiting.cpp
+e:\codingmonster\c++\waiting\waiting.cpp(11): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  waiting.vcxproj -> E:\CodingMonster\C++\Debug\waiting.exe
+  waiting.vcxproj -> E:\CodingMonster\C++\Debug\waiting.pdb (Partial PDB)

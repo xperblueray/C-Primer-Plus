@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  assign_st.cpp
+e:\codingmonster\c++\assign_st\assign_st.cpp(22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+e:\codingmonster\c++\assign_st\assign_st.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  assign_st.vcxproj -> E:\CodingMonster\C++\assign_st\Debug\assign_st.exe
+  assign_st.vcxproj -> E:\CodingMonster\C++\assign_st\Debug\assign_st.pdb (Full PDB)

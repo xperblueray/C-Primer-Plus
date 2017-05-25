@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  structur.cpp
+e:\codingmonster\c++\structur\structur.cpp(23): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+e:\codingmonster\c++\structur\structur.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\codingmonster\c++\structur\structur.cpp(30): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+e:\codingmonster\c++\structur\structur.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  structur.vcxproj -> E:\CodingMonster\C++\structur\Debug\structur.exe
+  structur.vcxproj -> E:\CodingMonster\C++\structur\Debug\structur.pdb (Full PDB)
